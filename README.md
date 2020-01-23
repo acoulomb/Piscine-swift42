@@ -20,7 +20,7 @@ Grade: 125/100
 Create a calculator under XCode with the Swift language.
 
 #### Preview
-![Screen Shot 2020-01-22 at 4 17 26 PM](https://user-images.githubusercontent.com/38137535/72991459-5410f980-3df2-11ea-9b66-739b5ce1519c.png)
+![Screen Shot 2020-01-22 at 4 17 26 PM](https://user-images.githubusercontent.com/38137535/72992407-fc738d80-3df3-11ea-98e7-5964fc39ca1f.png)
 
 ## Day01
 #### Objectives
@@ -31,21 +31,21 @@ Learn the basics of Swift by creating a card game.
 Create a deathnote app.
 
 #### Preview
-![Screen Shot 2020-01-22 at 4 23 25 PM](https://user-images.githubusercontent.com/38137535/72991635-a18d6680-3df2-11ea-9bf7-57009ca71a1a.png)![Screen Shot 2020-01-22 at 4 23 44 PM](https://user-images.githubusercontent.com/38137535/72991638-a3572a00-3df2-11ea-8c7c-648aa3c09c53.png)
+![Screen Shot 2020-01-22 at 4 23 25 PM](https://user-images.githubusercontent.com/38137535/72992439-072e2280-3df4-11ea-9298-ba4de380f796.png)![Screen Shot 2020-01-22 at 4 23 44 PM](https://user-images.githubusercontent.com/38137535/72992443-07c6b900-3df4-11ea-8e20-06c321e672ac.png)
 
 ## Day03
 #### Objectives
 Create a gallery with high resolution images of the NASA.
 
 #### Preview
-![Screen Shot 2020-01-22 at 6 17 56 PM](https://user-images.githubusercontent.com/38137535/72991728-c7b30680-3df2-11ea-97bf-42dd43faec49.png)![Screen Shot 2020-01-22 at 6 19 08 PM](https://user-images.githubusercontent.com/38137535/72991733-caadf700-3df2-11ea-9330-1cb2706a7e72.png)
+![Screen Shot 2020-01-22 at 6 17 56 PM](https://user-images.githubusercontent.com/38137535/72992506-1f9e3d00-3df4-11ea-8e7c-16dd00a9486c.png)![Screen Shot 2020-01-22 at 6 19 08 PM](https://user-images.githubusercontent.com/38137535/72992507-1f9e3d00-3df4-11ea-8188-f3cae8d752d6.png)
 
 ## Day04
 #### Objectives
 Create a twitter feed with hashtag searchbar.
 
 #### Preview
-![Screen Shot 2020-01-22 at 6 33 07 PM](https://user-images.githubusercontent.com/38137535/72991816-f630e180-3df2-11ea-89e6-1aa2be34ee57.png)
+![Screen Shot 2020-01-22 at 6 33 07 PM](https://user-images.githubusercontent.com/38137535/72992543-3349a380-3df4-11ea-97b7-32cfe289f3cf.png)
 
 
 ## Day05
@@ -53,4 +53,4 @@ Create a twitter feed with hashtag searchbar.
 Create map app.
 
 #### Preview
-![Screen Shot 2020-01-22 at 6 44 44 PM](https://user-images.githubusercontent.com/38137535/72991844-05179400-3df3-11ea-8afd-268c4689997d.png)![Screen Shot 2020-01-22 at 6 43 48 PM](https://user-images.githubusercontent.com/38137535/72991846-05b02a80-3df3-11ea-8d10-67dbd009a4d5.png)![Screen Shot 2020-01-22 at 6 45 39 PM](https://user-images.githubusercontent.com/38137535/72991848-05b02a80-3df3-11ea-89cd-4023565751a5.png)
+![Screen Shot 2020-01-22 at 6 44 44 PM](https://user-images.githubusercontent.com/38137535/72992604-53796280-3df4-11ea-822d-859e89d1a904.png)![Screen Shot 2020-01-22 at 6 43 48 PM](https://user-images.githubusercontent.com/38137535/72992607-53796280-3df4-11ea-8ff2-d3a08921eca0.png)![Screen Shot 2020-01-22 at 6 45 39 PM](https://user-images.githubusercontent.com/38137535/72992608-53796280-3df4-11ea-9923-c1ea2a397555.png)
