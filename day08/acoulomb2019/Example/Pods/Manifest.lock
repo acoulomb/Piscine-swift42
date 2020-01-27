@@ -1,0 +1,16 @@
+PODS:
+  - acoulomb2019 (0.1.0)
+
+DEPENDENCIES:
+  - acoulomb2019 (from `../`)
+
+EXTERNAL SOURCES:
+  acoulomb2019:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  acoulomb2019: 4523bb1c7bf474398e96011ede6ec0fd68f522e8
+
+PODFILE CHECKSUM: cac369a1422e2d53b1bbfc74f65b1d6546313dc3
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,6 @@
+framework module Pods_acoulomb2019_Tests {
+  umbrella header "Pods-acoulomb2019_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

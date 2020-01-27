@@ -1,0 +1,6 @@
+framework module acoulomb2019 {
+  umbrella header "acoulomb2019-umbrella.h"
+
+  export *
+  module * { export * }
+}
