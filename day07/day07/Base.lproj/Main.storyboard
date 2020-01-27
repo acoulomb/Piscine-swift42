@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="day07" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" alignment="top" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="U3l-9T-rYy">
+                                <rect key="frame" x="20" y="64" width="374" height="598"/>
+                                <subviews>
+                                    <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Ask about the weather..." minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="4Lo-Bg-Jfr">
+                                        <rect key="frame" x="0.0" y="0.0" width="374" height="186"/>
+                                        <nil key="textColor"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <textInputTraits key="textInputTraits"/>
+                                    </textField>
+                                    <button opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="249" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="amv-eH-D3d">
+                                        <rect key="frame" x="0.0" y="206" width="374" height="186"/>
+                                        <color key="backgroundColor" red="0.0" green="0.47934520244598389" blue="0.99908632040023804" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <state key="normal" title="Ask !">
+                                            <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="sendRequest:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ZpV-nf-Luk"/>
+                                        </connections>
+                                    </button>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ltT-Ld-h7X">
+                                        <rect key="frame" x="0.0" y="412" width="374" height="186"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="trailing" secondItem="4Lo-Bg-Jfr" secondAttribute="trailing" id="1J2-ug-FbJ"/>
+                                    <constraint firstItem="amv-eH-D3d" firstAttribute="leading" secondItem="U3l-9T-rYy" secondAttribute="leading" id="3Nc-YF-6Yf"/>
+                                    <constraint firstAttribute="trailing" secondItem="ltT-Ld-h7X" secondAttribute="trailing" id="FaN-4m-5UJ"/>
+                                    <constraint firstItem="ltT-Ld-h7X" firstAttribute="leading" secondItem="U3l-9T-rYy" secondAttribute="leading" id="GfX-yF-Dy1"/>
+                                    <constraint firstAttribute="trailing" secondItem="amv-eH-D3d" secondAttribute="trailing" id="JAP-RL-9Jy"/>
+                                    <constraint firstItem="4Lo-Bg-Jfr" firstAttribute="leading" secondItem="U3l-9T-rYy" secondAttribute="leading" id="MlS-b0-lit"/>
+                                </constraints>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="U3l-9T-rYy" secondAttribute="bottom" constant="200" id="MtW-8M-iyc"/>
+                            <constraint firstItem="U3l-9T-rYy" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="20" id="MvR-QH-kNt"/>
+                            <constraint firstItem="U3l-9T-rYy" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="stc-4r-Ziu"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="U3l-9T-rYy" secondAttribute="trailing" constant="20" id="wox-04-wyf"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <connections>
+                        <outlet property="request" destination="4Lo-Bg-Jfr" id="jFI-Gt-fdI"/>
+                        <outlet property="result" destination="ltT-Ld-h7X" id="eeM-vH-U9W"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+        </scene>
+    </scenes>
+</document>

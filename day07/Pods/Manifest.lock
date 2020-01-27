@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (4.9.1)
+  - ForecastIO (8.0.0)
+  - InputBarAccessoryView (4.2.2)
+  - MessageKit (3.0.0):
+    - InputBarAccessoryView (~> 4.2.2)
+  - ObjectMapper (3.5.1)
+  - RecastAI (3.5.0):
+    - Alamofire
+    - ObjectMapper
+
+DEPENDENCIES:
+  - ForecastIO
+  - MessageKit
+  - RecastAI
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ForecastIO
+    - InputBarAccessoryView
+    - MessageKit
+    - ObjectMapper
+    - RecastAI
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  ForecastIO: 68f8231be20748446036263a438cc449886a65ca
+  InputBarAccessoryView: 2b937602598e2fab3149f37f51dd7ad795653812
+  MessageKit: e892a9ca49ebe6d82684d3a93ad84021fa23e2c6
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  RecastAI: d9abaf97f914a07cc10ee0cb8be89bfe2b942280
+
+PODFILE CHECKSUM: 15488925067374198c995fee54934cff97d74919
+
+COCOAPODS: 1.8.4
