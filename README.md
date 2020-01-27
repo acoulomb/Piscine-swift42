@@ -54,3 +54,20 @@ Create map app.
 
 #### Preview
 ![Screen Shot 2020-01-22 at 6 44 44 PM](https://user-images.githubusercontent.com/38137535/72992604-53796280-3df4-11ea-822d-859e89d1a904.png)![Screen Shot 2020-01-22 at 6 43 48 PM](https://user-images.githubusercontent.com/38137535/72992607-53796280-3df4-11ea-8ff2-d3a08921eca0.png)![Screen Shot 2020-01-22 at 6 45 39 PM](https://user-images.githubusercontent.com/38137535/72992608-53796280-3df4-11ea-9923-c1ea2a397555.png)
+
+
+## Day06
+#### Objectives
+Motion app.
+
+#### Preview
+![day06](https://user-images.githubusercontent.com/38137535/73168964-4eb9f480-40fb-11ea-9026-5c8806b8cdd0.gif)
+
+
+## Rush01
+#### Objectives
+GPS app.
+
+#### Preview
+![test](https://user-images.githubusercontent.com/38137535/73170539-f97fe200-40fe-11ea-9d76-cf0613714bdf.gif)
+
