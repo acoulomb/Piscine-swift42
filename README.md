@@ -72,6 +72,11 @@ Weather forecast bot.
 ![weather](https://user-images.githubusercontent.com/38137535/73172678-dc99dd80-4103-11ea-8b98-7bd60a3a4673.gif)
 
 
+## Day08
+#### Objectives
+Create a pod that masters articles.
+
+
 ## Rush00
 #### Objectives
 42 intranet app.
