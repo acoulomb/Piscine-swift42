@@ -72,6 +72,14 @@ Weather forecast bot.
 ![weather](https://user-images.githubusercontent.com/38137535/73172678-dc99dd80-4103-11ea-8b98-7bd60a3a4673.gif)
 
 
+## Rush00
+#### Objectives
+42 intranet app.
+
+#### Preview
+![rush00](https://user-images.githubusercontent.com/38137535/73173149-fbe53a80-4104-11ea-9d47-99b970179b23.gif)
+
+
 ## Rush01
 #### Objectives
 GPS app.
