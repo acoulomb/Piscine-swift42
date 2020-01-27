@@ -62,3 +62,12 @@ Motion app.
 
 #### Preview
 ![day06](https://user-images.githubusercontent.com/38137535/73168964-4eb9f480-40fb-11ea-9026-5c8806b8cdd0.gif)
+
+
+## Rush01
+#### Objectives
+GPS app.
+
+#### Preview
+![test](https://user-images.githubusercontent.com/38137535/73170539-f97fe200-40fe-11ea-9d76-cf0613714bdf.gif)
+
