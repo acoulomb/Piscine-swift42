@@ -64,6 +64,14 @@ Motion app.
 ![day06](https://user-images.githubusercontent.com/38137535/73168964-4eb9f480-40fb-11ea-9026-5c8806b8cdd0.gif)
 
 
+## Day07
+#### Objectives
+Weather forecast bot.
+
+#### Preview
+![weather](https://user-images.githubusercontent.com/38137535/73172678-dc99dd80-4103-11ea-8b98-7bd60a3a4673.gif)
+
+
 ## Rush01
 #### Objectives
 GPS app.
